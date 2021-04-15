@@ -1,0 +1,5 @@
+include ':app'
+rootProject.name = "Covid App"
+
+include ':unityLibrary'
+project(':unityLibrary').projectDir=new File('C:\\Users\\mraub\\OneDrive\\Desktop\\New folder (2)\\Covid-Simulator-2021-TrevonPhillip868-patch-1\\unityLibrary')
